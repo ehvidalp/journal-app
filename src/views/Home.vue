@@ -4,7 +4,7 @@
 
     <h1>Hola mundo</h1>
     <button class="btn btn-primary">Primary</button>
-    <button>Secondary</button>
-    <button>Success</button>
+    <button class="btn btn-secondary">Secondary</button>
+    <button class="btn btn-success">Sucess</button>
   </div>
 </template>
