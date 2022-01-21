@@ -22,9 +22,9 @@
   <hr />
 
   <div class="d-flex flex-column px-3 h-75">
-    <textarea name="" id="" cols="30" rows="10" placeholder="¿Qué sucedió hoy?"></textarea>
+    <textarea name="" placeholder="¿Qué sucedió hoy?"></textarea>
   </div>
-  <Fab />
+  <Fab icon="fa-save" />
   <img
     src="https://img.vixdata.io/pd/jpg-large/es/sites/default/files/btg/cine.batanga.com/files/cual-es-el-mejor-hulk-de-la-historia-del-cine.jpg"
     alt="entry-picture"
@@ -54,7 +54,7 @@ textarea {
 img {
   width: 200px;
   position: fixed;
-  bottom: 15px;
+  bottom: 150px;
   right: 20px;
   box-shadow: 0px 5px 10px rgba($color: #000000, $alpha: 0.2);
 }
